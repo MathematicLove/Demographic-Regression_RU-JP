@@ -50,4 +50,8 @@
 
 <img src="./plots_demography/best_models/BEST_Japan_Приток_иностранцев.png" alt="Japan Приток иностранцев" width="75%">
 
+## Hypotheses (with the Chi-square criterion) 
+
+<img src="./plots_demography/hypotheses/hypotheses_chi2_bars.png" alt="Гипотезы" width="75%">
+
 </div>
